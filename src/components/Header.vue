@@ -1,7 +1,7 @@
 <template>
-  <div class="h-16 bg-black-700 flex">
+  <div class="h-16 bg-green-700 flex">
     <!-- <div
-      class="w-16 h-16 h-full bg-black-500 grid place-items-center cursor-pointer mr-10"
+      class="w-16 h-16 h-full bg-green-500 grid place-items-center cursor-pointer mr-10"
     >
       <img src="@/assets/menu.svg" alt="" />
     </div> -->
