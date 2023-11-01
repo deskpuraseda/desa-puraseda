@@ -1,10 +1,10 @@
 <template>
   <div class="h-16 bg-green-700 flex">
-    <!-- <div
+     <div
       class="w-16 h-16 h-full bg-green-500 grid place-items-center cursor-pointer mr-10"
     >
       <img src="@/assets/menu.svg" alt="" />
-    </div> -->
+    </div> 
     <div class="flex flex-col ml-5 justify-center">
       <!-- Sesuaikan nama desa masing-masing -->
       <p class="text-lg leading-none uppercase text-white font-bold mb-2">
